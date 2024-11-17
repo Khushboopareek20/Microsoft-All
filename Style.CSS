@@ -1,0 +1,208 @@
+*{
+    padding: 0;
+    margin: 0;
+
+}
+
+.main{
+    
+}
+
+.header{
+    height: 200px;
+    padding: 0px 300px;
+    text-align: center;
+
+    position: relative;
+    top: 70px;
+    display: flex;
+    justify-content: space-around;
+}
+
+.header-inner{
+    width: 24%px;
+}
+
+.header img {
+    width: 40px;
+    
+}
+
+.header-inner a{
+    color: rgba(21, 116, 198, 0.853);
+    font-size: 20px;
+}
+
+.flex1{
+    padding: 0px 100px;
+    
+    display: flex;
+    justify-content: space-between;
+}
+
+.flex1-inner{
+    width: 23.5%;
+    height: 460px;
+    border: 3px solid rgb(214, 214, 214);
+    border-radius: 10px;
+
+    position: relative;
+}
+
+.flex1-inner img{
+    width: 100%;
+    height: 190px;
+}
+
+.flex1-inner h2{
+    font-size: 33px;
+    padding: 20px 35px;
+}
+
+.flex1-inner p{
+    padding: 0px 35px;
+    font-size: 16px;
+    line-height: 1.3;
+    
+}
+
+.flex1-inner button{
+    background-color: rgb(30, 87, 211);
+    color: white;
+    font-size: 17.5px;
+    
+    padding: 12px 15px;
+    border: none;
+    border-radius: 3px;
+
+    position: absolute;
+    bottom: 20px;
+    left: 35px;
+}
+
+
+
+.medium{
+    width: 90%;
+    padding: 100px;
+    position: relative;
+}
+
+
+.medium img{
+  width: 1300px;
+  height: 550px;
+
+}
+
+.medium-inner{
+    width: 320px;
+    
+    background-color: rgb(194, 224, 255);
+    position: absolute;
+    left: 200px;
+    top: 170px;
+}
+
+.medium-inner h2{
+    font-size: 45px;
+    padding: 18px 0px;
+}
+
+.medium-inner p{
+    font-size: 18px;
+    line-height: 1.4;
+    color: rgb(35, 35, 35);
+}
+
+.medium-inner button{
+    background-color: rgb(5, 52, 194);
+    padding: 10px 20px;
+    color: white;
+    font-size: 17px;
+    border: none;
+    border-radius: 3px;
+    margin: 19px 0px;
+}
+
+.medium-p{
+    font-size: 19px;
+    font-weight: 800;
+}
+
+.h{
+    font-size: 30px;
+    padding-left: 100px;
+}
+
+.flex2{
+    padding: 0px 80px;
+    
+    display: flex;
+    justify-content: space-between;
+}
+
+.flex2-inner{
+    width: 24.4%;
+    height: 460px;
+    border: 3px solid rgb(214, 214, 214);
+    border-radius: 10px;
+
+    position: relative;
+}
+
+.flex2-inner img{
+    width: 100%;
+    height: 190px;
+}
+
+.flex2-inner h2{
+    font-size: 33px;
+    padding: 0px 20px;
+}
+
+.flex2-inner p{
+    padding: 0px 20px;
+    font-size: 16px;
+    line-height: 1.3;
+    
+}
+
+.flex2-inner button{
+    background-color: rgb(30, 87, 211);
+    color: white;
+    
+    text-align: left;
+    
+    padding: 10px 20px;
+    border: none;
+    border-radius: 1px;
+
+    position: absolute;
+    bottom: 20px;
+    left: 20px;
+}
+
+.div{
+    padding: 100px 1030px 100px 100px;
+    display: flex;
+    justify-content: space-around;
+}
+span{
+    font-size: 25px;
+    color: black;
+    font-weight: 400;
+   
+}
+
+.bottom{
+    width:20%;
+    position: relative;
+}
+
+.bottom img{
+    width: 35px;
+    
+    position: absolute;
+    left: 300px;
+}
